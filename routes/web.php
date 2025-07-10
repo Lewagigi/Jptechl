@@ -4,7 +4,7 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
     return view('welcome');
-    \Illuminate\Log\log():info('log');
+   \Illuminate\Log\log('info');
 });
 
 
