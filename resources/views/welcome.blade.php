@@ -167,7 +167,7 @@
         nav.classList.toggle('hidden');
     });
 </script>
-<script type="module" src="https://donorbox.org/widgets.js" async></script>
-<dbox-widget campaign="faire-un-don-71" type="donation_form" enable-auto-scroll="true"></dbox-widget>
+
+
 </body>
 </html>
