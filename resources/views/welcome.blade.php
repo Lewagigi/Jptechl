@@ -58,12 +58,14 @@
                 Permettre aussi de soutenir la plateforme</p>
 
             <div class="mt-6 flex gap-3">
-                <button id="hero-login" class="px-6 py-3 bg-amber-700 text-white rounded-md shadow">Se connecter</button>
-                <button id="hero-signup" class="px-6 py-3 border border-amber-700 text-amber-700 rounded-md">S'inscrire</button>
+                <button id="hero-login" class="px-6 py-3 bg-amber-700 text-white rounded-md shadow">Pourquoi Financer Jeunes Prodiges Tech</button>
+                <button id="hero-signup" class="px-6 py-3 border border-amber-700 text-amber-700 rounded-md"></button>
             </div>
 
             <ul id="features" class="mt-8 grid grid-cols-1 sm:grid-cols-2 gap-3 text-sm text-gray-700">
-                <li class="flex items-start gap-3"><span class="text-amber-700 font-bold">•</span> Réunions de prière hebdomadaires</li>
+                <li class="flex items-start gap-3"><span class="text-amber-700 font-bold">•</span>Le financement permettra  les rencontres entre les étudiants et les professionnels en louant des salles Organiser des moments d’échanges autour d’un café .
+
+                    Permettre aussi de soutenir la plateforme .</li>
                 <li class="flex items-start gap-3"><span class="text-amber-700 font-bold">•</span> Soutien aux familles</li>
                 <li class="flex items-start gap-3"><span class="text-amber-700 font-bold">•</span> Enseignements bibliques</li>
                 <li class="flex items-start gap-3"><span class="text-amber-700 font-bold">•</span> Activités pour enfants</li>
