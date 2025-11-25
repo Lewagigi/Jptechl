@@ -66,9 +66,9 @@
                 <li class="flex items-start gap-3"><span class="text-amber-700 font-bold">•</span>Le financement permettra  les rencontres entre les étudiants et les professionnels en louant des salles Organiser des moments d’échanges autour d’un café .
 
                     Permettre aussi de soutenir la plateforme .</li>
-                <li class="flex items-start gap-3"><span class="text-amber-700 font-bold">•</span> Soutien aux familles</li>
+
                 <li class="flex items-start gap-3"><span class="text-amber-700 font-bold">•</span> Enseignements bibliques</li>
-                <li class="flex items-start gap-3"><span class="text-amber-700 font-bold">•</span> Activités pour enfants</li>
+
             </ul>
         </div>
 
