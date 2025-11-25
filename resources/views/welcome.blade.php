@@ -40,10 +40,7 @@
 
 <main class="max-w-3xl mx-auto p-6">
     <section class="my-8 w-full flex justify-end">
-        <div class="w-full max-w-xl bg-white rounded-2xl shadow-xl p-6">
-            <script type="module" src="https://donorbox.org/widgets.js" async></script>
-            <dbox-widget campaign="jeunes-prodiges-tech" type="donation_form" enable-auto-scroll="true"></dbox-widget>
-        </div>
+       
     </section>
     <!-- Hero -->
     <section class="grid md:grid-cols-2 gap-8 items-center py-12">
