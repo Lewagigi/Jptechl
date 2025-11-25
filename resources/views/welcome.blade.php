@@ -67,7 +67,7 @@
 
                     Permettre aussi de soutenir la plateforme .</li>
 
-                <li class="flex items-start gap-3"><span class="text-amber-700 font-bold">•</span> Enseignements bibliques</li>
+
 
             </ul>
         </div>
