@@ -40,7 +40,10 @@
 
 <main class="max-w-3xl mx-auto p-6">
     <section class="my-8 w-full flex justify-end">
-       
+        <p>
+           
+        </p>
+
     </section>
     <!-- Hero -->
     <section class="grid md:grid-cols-2 gap-8 items-center py-12">
@@ -108,7 +111,14 @@
 
     <!-- Footer / Contact -->
     <footer class="py-12 text-center text-sm text-gray-600">
-        <p>© Prodiges d'Afrique · Rassemblement de foi · <a href="#" class="text-amber-700 underline">Contact</a></p>
+        <p>
+            Jeunes Prodiges Tech est un start up accompagnent des jeunes qui sont dans la Tech dans leur recherche d’alternances,
+            stage, emploi en encourageant les jeunes à continuer à persévérer dans leur recherche par des paroles de motivation quotidienne,
+            permet aussi l’entraide étudiant. Les étudiants s’encouragent entre eux par des témoignages de leur parcours de recherche.
+            Les professionnels aident les étudiants à visualiser aux étudiants le métier qu’ils feront plus tard. les raisons pour collecter des fonds pour le projet:
+
+            Permettre les rencontres entre les étudiants et les professionnels en louant des salles . Organiser des moments d’échanges autour d’un café .
+            Permettre aussi de soutenir la plateforme . <a href="#" class="text-amber-700 underline">Contact</a></p>
     </footer>
 </main>
 
