@@ -41,7 +41,7 @@
 <main class="max-w-3xl mx-auto p-6">
     <section class="my-8 w-full flex justify-end">
         <p>
-           
+
         </p>
 
     </section>
@@ -49,7 +49,13 @@
     <section class="grid md:grid-cols-2 gap-8 items-center py-12">
         <div>
             <h2 class="text-4xl font-extrabold text-amber-800 leading-tight">Inviter le règne de Dieu<br class="hidden sm:inline"> dans chaque maison</h2>
-            <p class="mt-4 text-gray-700">Rejoignez-nous pour prier, rendre grâce et soutenir les familles. Réveillez votre foi et engagez-vous dans une vie de service.</p>
+            <p class="mt-4 text-gray-700">  Jeunes Prodiges Tech est un start up accompagnent des jeunes qui sont dans la Tech dans leur recherche d’alternances,
+                stage, emploi en encourageant les jeunes à continuer à persévérer dans leur recherche par des paroles de motivation quotidienne,
+                permet aussi l’entraide étudiant. Les étudiants s’encouragent entre eux par des témoignages de leur parcours de recherche.
+                Les professionnels aident les étudiants à visualiser aux étudiants le métier qu’ils feront plus tard. les raisons pour collecter des fonds pour le projet:
+
+                Permettre les rencontres entre les étudiants et les professionnels en louant des salles . Organiser des moments d’échanges autour d’un café .
+                Permettre aussi de soutenir la plateforme</p>
 
             <div class="mt-6 flex gap-3">
                 <button id="hero-login" class="px-6 py-3 bg-amber-700 text-white rounded-md shadow">Se connecter</button>
@@ -112,13 +118,7 @@
     <!-- Footer / Contact -->
     <footer class="py-12 text-center text-sm text-gray-600">
         <p>
-            Jeunes Prodiges Tech est un start up accompagnent des jeunes qui sont dans la Tech dans leur recherche d’alternances,
-            stage, emploi en encourageant les jeunes à continuer à persévérer dans leur recherche par des paroles de motivation quotidienne,
-            permet aussi l’entraide étudiant. Les étudiants s’encouragent entre eux par des témoignages de leur parcours de recherche.
-            Les professionnels aident les étudiants à visualiser aux étudiants le métier qu’ils feront plus tard. les raisons pour collecter des fonds pour le projet:
-
-            Permettre les rencontres entre les étudiants et les professionnels en louant des salles . Organiser des moments d’échanges autour d’un café .
-            Permettre aussi de soutenir la plateforme . <a href="#" class="text-amber-700 underline">Contact</a></p>
+ <a href="#" class="text-amber-700 underline">Contact</a></p>
     </footer>
 </main>
 
