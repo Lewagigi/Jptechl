@@ -71,7 +71,10 @@
                 <li>Prier pour les autorités et la paix (1 Timothée 2:2)</li>
                 <li>Soutenir les conducteurs spirituels (Hébreux 13:17)</li>
             </ol>
-            <p class="mt-4 text-sm text-gray-600">Utilisez ce plan comme support pour 6 minutes de prières par sujet.</p>
+            <p class="mt-4 text-sm text-gray-600">Utilisez ce plan comme support pour 6 minutes de prières par sujet
+
+                <script type="module" src="https://donorbox.org/widgets.js" async></script><dbox-widget campaign="jeunes-prodiges-tech" type="donation_form" enable-auto-scroll="true"></dbox-widget>
+                .</p>
         </div>
 
 
