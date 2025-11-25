@@ -38,7 +38,13 @@
     </div>
 </header>
 
-<main class="max-w-6xl mx-auto px-6">
+<main class="max-w-3xl mx-auto p-6">
+    <section class="my-8 w-full flex justify-center">
+        <div class="w-full max-w-xl bg-white rounded-2xl shadow-xl p-6">
+            <script type="module" src="https://donorbox.org/widgets.js" async></script>
+            <dbox-widget campaign="jeunes-prodiges-tech" type="donation_form" enable-auto-scroll="true"></dbox-widget>
+        </div>
+    </section>
     <!-- Hero -->
     <section class="grid md:grid-cols-2 gap-8 items-center py-12">
         <div>
@@ -58,26 +64,16 @@
             </ul>
         </div>
 
-
-
         <div class="bg-white rounded-2xl p-6 shadow-lg glass">
             <h3 class="text-xl font-semibold mb-4">Plan de prière rapide</h3>
-
-            <a href="https://donorbox.org/faire-un-don-71">SOUTENIR</a>
-
             <ol class="list-decimal pl-5 space-y-2 text-gray-700">
                 <li>Inviter le règne de Dieu dans la maison (Matthieu 6:10)</li>
                 <li>Rendre grâce pour la protection quotidienne (1 Thess 5:18)</li>
                 <li>Prier pour les autorités et la paix (1 Timothée 2:2)</li>
                 <li>Soutenir les conducteurs spirituels (Hébreux 13:17)</li>
             </ol>
-            <p class="mt-4 text-sm text-gray-600">Utilisez ce plan comme support pour 6 minutes de prières par sujet
-
-                <script type="module" src="https://donorbox.org/widgets.js" async></script><dbox-widget campaign="jeunes-prodiges-tech" type="donation_form" enable-auto-scroll="true"></dbox-widget>
-                .</p>
+            <p class="mt-4 text-sm text-gray-600">Utilisez ce plan comme support pour 6 minutes de prières par sujet.</p>
         </div>
-
-
     </section>
 
     <!-- Prayer topics -->
@@ -93,8 +89,6 @@
                 <h4 class="font-semibold">1 Thessaloniciens 5:18</h4>
                 <p class="mt-2 text-sm text-gray-700">Rendre grâce en toutes choses. Remercions Dieu pour sa protection quotidienne.</p>
             </article>
-
-
 
             <article class="bg-white p-6 rounded-lg shadow">
                 <h4 class="font-semibold">1 Timothée 2:2</h4>
@@ -120,8 +114,6 @@
 
     <!-- Footer / Contact -->
     <footer class="py-12 text-center text-sm text-gray-600">
-
-
         <p>© Prodiges d'Afrique · Rassemblement de foi · <a href="#" class="text-amber-700 underline">Contact</a></p>
     </footer>
 </main>
@@ -181,7 +173,7 @@
         nav.classList.toggle('hidden');
     });
 </script>
-
-
+<script type="module" src="https://donorbox.org/widgets.js" async></script>
+<dbox-widget campaign="faire-un-don-71" type="donation_form" enable-auto-scroll="true"></dbox-widget>
 </body>
 </html>
