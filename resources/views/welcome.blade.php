@@ -62,6 +62,9 @@
 
         <div class="bg-white rounded-2xl p-6 shadow-lg glass">
             <h3 class="text-xl font-semibold mb-4">Plan de prière rapide</h3>
+
+            <a href="https://donorbox.org/faire-un-don-71">SOUTENIR</a>
+
             <ol class="list-decimal pl-5 space-y-2 text-gray-700">
                 <li>Inviter le règne de Dieu dans la maison (Matthieu 6:10)</li>
                 <li>Rendre grâce pour la protection quotidienne (1 Thess 5:18)</li>
@@ -71,7 +74,7 @@
             <p class="mt-4 text-sm text-gray-600">Utilisez ce plan comme support pour 6 minutes de prières par sujet.</p>
         </div>
 
-         <a href="https://donorbox.org/faire-un-don-71">SOUTENIR</a>
+
     </section>
 
     <!-- Prayer topics -->
