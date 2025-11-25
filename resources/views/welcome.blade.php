@@ -59,7 +59,7 @@
 
             <div class="mt-6 flex gap-3">
                 <button id="hero-login" class="px-6 py-3 bg-amber-700 text-white rounded-md shadow">Pourquoi Financer Jeunes Prodiges Tech</button>
-                <button id="hero-signup" class="px-6 py-3 border border-amber-700 text-amber-700 rounded-md"></button>
+
             </div>
 
             <ul id="features" class="mt-8 grid grid-cols-1 sm:grid-cols-2 gap-3 text-sm text-gray-700">
