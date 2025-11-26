@@ -58,10 +58,14 @@
 
     <!-- MENU MOBILE DÉROULANT -->
     <div id="mobile-menu"
-         class="md:hidden hidden flex flex-col items-center text-center gap-4 mt-4 p-4 bg-white rounded-lg shadow">
+         class="md:hidden hidden flex flex-col items-center text-center gap-4 mt-6 p-4 bg-white rounded-lg shadow relative z-50">
 
         <a href="#features" class="text-sm hover:underline w-full">A propos</a>
-        <a href="https://donorbox.org/faire-un-don-71" class="text-sm hover:underline w-full">Sujets</a>
+
+        <a href="https://donorbox.org/faire-un-don-71"
+           class="text-sm hover:underline w-full">
+            Sujets
+        </a>
 
         <button class="px-4 py-2 bg-amber-700 text-white rounded-md shadow w-3/4 mx-auto">
             Se connecter
@@ -76,6 +80,7 @@
             Adhérer
         </a>
     </div>
+
 
 
 
