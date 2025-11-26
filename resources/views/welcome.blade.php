@@ -186,7 +186,7 @@
             </article>
 
             <article class="bg-white p-6 rounded-lg shadow">
-                <h4 class="font-semibold">Création de cellules “Jeunes Prodiges Tech</h4>
+                <h4 class="font-semibold">Création de cellules “Jeunes Prodiges Tech"</h4>
                 <p class="mt-2 text-sm text-gray-700">Implantation sur les campus(1 cellules tous les 3 mois) - Accompagnement des nouveaux arrivants </p>
             </article>
 
