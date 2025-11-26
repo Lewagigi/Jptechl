@@ -88,23 +88,25 @@
         <h3 class="text-2xl font-bold text-amber-800">Sujets de prière</h3>
         <div class="mt-6 grid md:grid-cols-3 gap-4">
             <article class="bg-white p-6 rounded-lg shadow">
-                <h4 class="font-semibold">Matthieu 6:10</h4>
-                <p class="mt-2 text-sm text-gray-700">Que ton règne vienne; que ta volonté soit faite sur la terre comme au ciel. Prier pour la venue du règne de Dieu dans nos foyers.</p>
+                <h4 class="font-semibold">Échanges avec des professionnels </h4>
+                <p class="mt-2 text-sm text-gray-700"> Partage de parcours et d’expériences -
+                    Conseils pratiques pour trouver une alternance - 3
+                    rencontres par mois (en ligne + présentiel) .</p>
             </article>
 
             <article class="bg-white p-6 rounded-lg shadow">
-                <h4 class="font-semibold">1 Thessaloniciens 5:18</h4>
-                <p class="mt-2 text-sm text-gray-700">Rendre grâce en toutes choses. Remercions Dieu pour sa protection quotidienne.</p>
+                <h4 class="font-semibold">Création de cellules “Jeunes Prodiges Tech</h4>
+                <p class="mt-2 text-sm text-gray-700">Implantation sur les campus(1 cellules tous les 3 mois) - Accompagnement des nouveaux arrivants </p>
             </article>
 
             <article class="bg-white p-6 rounded-lg shadow">
-                <h4 class="font-semibold">1 Timothée 2:2</h4>
-                <p class="mt-2 text-sm text-gray-700">Prier pour les autorités civiles : présidence, gouvernement, mairie de Bagneux.</p>
+                <h4 class="font-semibold">Rencontres en présentiel étudiants–professionnels</h4>
+                <p class="mt-2 text-sm text-gray-700">Networking 3 x dans le mois - Découverte d’entreprises partenaires .</p>
             </article>
 
             <article class="bg-white p-6 rounded-lg shadow">
-                <h4 class="font-semibold">Hébreux 13:17</h4>
-                <p class="mt-2 text-sm text-gray-700">Soutenir et prier pour les responsables spirituels et les pères de famille.</p>
+                <h4 class="font-semibold">Visites d’entreprises tech </h4>
+                <p class="mt-2 text-sm text-gray-700">Mise en avant des CV étudiants(1 fois dans la semaines) - Promotion des talents auprès des recruteurs (1 fois dans la semaine) .</p>
             </article>
 
             <article class="bg-white p-6 rounded-lg shadow">
