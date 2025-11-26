@@ -115,8 +115,8 @@
             </article>
 
             <article class="bg-white p-6 rounded-lg shadow">
-                <h4 class="font-semibold">Jacques 5:15</h4>
-                <p class="mt-2 text-sm text-gray-700">Prière pour les malades du corps et de l'âme, et pour la guérison spirituelle.</p>
+                <h4 class="font-semibold">Visibilité et rayonnement </h4>
+                <p class="mt-2 text-sm text-gray-700">Objectif : 1 000 interactions sur LinkedIn - Mise en ligne d’un site internet</p>
             </article>
         </div>
     </section>
