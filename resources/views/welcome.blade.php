@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Prodiges d'Afrique - Page Tailwind</title>
+    <title>Prodiges d'Afrique </title>
     <!-- Tailwind Play CDN (pour développement / prototype seulement) -->
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
@@ -22,12 +22,61 @@
         </div>
     </div>
 
-    <nav class="hidden md:flex gap-4 items-center">
+    <!-- NAVBAR RESPONSIVE -->
+    <nav class="flex items-center justify-between w-full">
+
+        <!-- VERSION DESKTOP -->
+        <div class="hidden md:flex gap-4 items-center">
+            <a href="#features" class="text-sm hover:underline">A propos</a>
+            <a href="#prayer" class="text-sm hover:underline">Sujets</a>
+
+            <button id="btn-login"
+                    class="px-4 py-2 bg-amber-700 text-white rounded-md shadow">
+                Se connecter
+            </button>
+
+            <button id="btn-signup"
+                    class="px-4 py-2 border border-amber-700 text-amber-700 rounded-md">
+                Créer un compte
+            </button>
+        </div>
+
+        <!-- VERSION MOBILE -->
+        <div class="md:hidden">
+            <button id="menu-toggle" class="p-2 text-amber-700">
+                <!-- Icône hamburger -->
+                <svg xmlns="http://www.w3.org/2000/svg" class="w-7 h-7" fill="none"
+                     viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                          d="M4 6h16M4 12h16M4 18h16" />
+                </svg>
+            </button>
+        </div>
+    </nav>
+
+    <!-- MENU MOBILE DÉROULANT -->
+    <div id="mobile-menu"
+         class="md:hidden hidden flex flex-col gap-4 mt-4 p-4 bg-white rounded-lg shadow">
+
         <a href="#features" class="text-sm hover:underline">A propos</a>
         <a href="#prayer" class="text-sm hover:underline">Sujets</a>
-        <button id="btn-login" class="px-4 py-2 bg-amber-700 text-white rounded-md shadow">Se connecter</button>
-        <button id="btn-signup" class="px-4 py-2 border border-amber-700 text-amber-700 rounded-md">Créer un compte</button>
-    </nav>
+
+        <button class="px-4 py-2 bg-amber-700 text-white rounded-md shadow w-full">
+            Se connecter
+        </button>
+
+        <button class="px-4 py-2 border border-amber-700 text-amber-700 rounded-md w-full">
+            Créer un compte
+        </button>
+    </div>
+
+    <script>
+        // Affiche / Masque le menu mobile
+        document.getElementById("menu-toggle").addEventListener("click", () => {
+            document.getElementById("mobile-menu").classList.toggle("hidden");
+        });
+    </script>
+
 
     <!-- Mobile menu -->
     <div class="md:hidden">
