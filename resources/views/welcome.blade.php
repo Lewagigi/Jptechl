@@ -27,8 +27,9 @@
     <!-- NAVBAR RESPONSIVE -->
     <nav class="flex items-center justify-between w-full">
 
-        <!-- VERSION DESKTOP -->
-        <div class="hidden md:flex gap-4 items-center justify-start ml-4">
+
+        
+        <div class="hidden md:flex items-center gap-4 pl-4">
             <a href="#features" class="text-sm hover:underline"></a>
             <a href="https://donorbox.org/jeunes-prodiges-tech" class="text-sm hover:underline"></a>
 
@@ -42,6 +43,7 @@
                 Créer un compte
             </button>
         </div>
+
 
 
 
