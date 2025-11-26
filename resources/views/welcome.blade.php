@@ -130,12 +130,8 @@
             </ul>
         </div>
 
-        <div class="bg-white rounded-2xl p-6 shadow-lg glass">
 
 
-            <ol class="list-decimal pl-5 space-y-2 text-gray-700">
-                <!-- WIDGET DONORBOX RESPONSIVE -->
-                <div class="w-full max-w-full md:max-w-md mx-auto p-4 bg-white rounded-2xl shadow-lg">
 
 
 
