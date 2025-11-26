@@ -126,118 +126,11 @@
 
 
 
-        h1 class="text-3xl font-bold text-center text-gray-900 mt-16 mb-10">
-        NOS MISSIONS
-        </h1>
-
-        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 bg-gray-900 p-10 rounded-xl shadow-xl">
-
-            <div class="bg-gray-800 p-6 rounded-lg shadow hover:shadow-xl transition">
-                <h2 class="text-xl font-semibold text-white mb-3">ACCESSIBILITÉ</h2>
-                <p class="text-gray-300">
-                    Rendre l'univers de la technologie accessible et compréhensible pour tous.
-                </p>
-            </div>
-
-            <div class="bg-gray-800 p-6 rounded-lg shadow hover:shadow-xl transition">
-                <h2 class="text-xl font-semibold text-white mb-3">L'INNOVATION</h2>
-                <p class="text-gray-300">
-                    Susciter des vocations et engendrer de futurs innovateurs, créateurs et entrepreneurs
-                    pour Dieu afin d’impacter leur génération.
-                </p>
-            </div>
-
-            <div class="bg-gray-800 p-6 rounded-lg shadow hover:shadow-xl transition">
-                <h2 class="text-xl font-semibold text-white mb-3">CONSEILS ET CONNEXIONS</h2>
-                <p class="text-gray-300">
-                    Connecter les personnes selon leurs besoins dans les nouvelles technologies.
-                </p>
-            </div>
-
-            <div class="bg-gray-800 p-6 rounded-lg shadow hover:shadow-xl transition">
-                <h2 class="text-xl font-semibold text-white mb-3">LA FINALITÉ</h2>
-                <p class="text-gray-300">
-                    Faire de l'évangélisation par l'influence et attirer les âmes à CHRIST.
-                </p>
-            </div>
-
-            <div class="bg-gray-800 p-6 rounded-lg shadow hover:shadow-xl transition">
-                <h2 class="text-xl font-semibold text-white mb-3">PRIÈRE</h2>
-                <p class="text-gray-300">
-                    Les membres engagés dans la prière et les temps d'intercession.
-                </p>
-            </div>
-
-        </div>
-
-
-        <div class="overflow-x-auto">
-            <table class="min-w-full bg-white border border-gray-200 rounded-lg">
-                <thead class="bg-gray-100">
-                <tr>
-                    <th class="px-4 py-2 text-left text-sm font-semibold text-gray-700">Nom</th>
-                    <th class="px-4 py-2 text-left text-sm font-semibold text-gray-700">Email</th>
-                    <th class="px-4 py-2 text-left text-sm font-semibold text-gray-700">Rôle</th>
-                    <th class="px-4 py-2 text-left text-sm font-semibold text-gray-700">Date d’inscription</th>
-                </tr>
-                </thead>
-                <tbody class="divide-y divide-gray-200">
-                <tr class="hover:bg-gray-50">
-                    <td class="px-4 py-2 text-sm text-gray-800">Alice Dupont</td>
-                    <td class="px-4 py-2 text-sm text-gray-800">alice@example.com</td>
-                    <td class="px-4 py-2 text-sm text-gray-800">Admin</td>
-                    <td class="px-4 py-2 text-sm text-gray-800">2025‑11‑01</td>
-                </tr>
-                <tr class="hover:bg-gray-50">
-                    <td class="px-4 py-2 text-sm text-gray-800">Mohamed Diallo</td>
-                    <td class="px-4 py-2 text-sm text-gray-800">mohamed@example.com</td>
-                    <td class="px-4 py-2 text-sm text-gray-800">Membre</td>
-                    <td class="px-4 py-2 text-sm text-gray-800">2025‑10‑21</td>
-                </tr>
-                <!-- Ajoute d'autres lignes ici -->
-                </tbody>
-            </table>
-        </div>
-
-
-        <div class="p-6 bg-gray-100 min-h-screen">
-            <div class="flex justify-between items-center mb-4">
-                <h2 class="text-xl font-semibold text-gray-700">Users</h2>
-                <button id="openModal" class="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700 transition">
-                    Add User
-                </button>
-            </div>
-
-            <div class="overflow-x-auto bg-white rounded shadow">
-                <table class="min-w-full divide-y divide-gray-200">
-                    <thead class="bg-gray-50">
-                    <tr>
-                        <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Name</th>
-                        <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Email</th>
-                        <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Role</th>
-                        <th class="px-6 py-3 text-right text-xs font-medium text-gray-500 uppercase tracking-wider">Actions</th>
-                    </tr>
-                    </thead>
-                    <tbody class="bg-white divide-y divide-gray-200">
-                    <tr>
-                        <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-900">Jane Doe</td>
-                        <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-500">jane@example.com</td>
-                        <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-500">Admin</td>
-                        <td class="px-6 py-4 whitespace-nowrap text-right text-sm font-medium">
-                            <button class="text-blue-600 hover:text-blue-900">Edit</button>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-900">John Smith</td>
-                        <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-500">john@example.com</td>
-                        <td class="px-6 py-4 whitespace-nowrap text
 
 
 
 
-
-
-        <!-- SCRIPT DONORBOX -->
+                        <!-- SCRIPT DONORBOX -->
                         <!-- CONTENEUR DONORBOX RESPONSIVE + FIXE MOBILE -->
         <!-- CONTENEUR DONORBOX FIXE ET RESPONSIVE -->
         <div class="w-full mx-auto p-4 sm:p-6 bg-white rounded-2xl shadow-lg">
