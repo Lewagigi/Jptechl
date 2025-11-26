@@ -247,6 +247,65 @@ NOS MISSIONS
 
 
 
+<h1 class="text-2xl sm:text-3xl font-bold text-center text-gray-900 mt-8 mb-6 px-4">
+    NOS MISSIONS
+</h1>
+
+<div class="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3 bg-gray-900 p-4 sm:p-10 rounded-xl shadow-xl">
+
+    ```
+    <div class="bg-gray-800 p-4 sm:p-6 rounded-lg shadow hover:shadow-xl transition">
+        <h2 class="text-lg sm:text-xl font-semibold text-white mb-2 sm:mb-3">ÉCHANGES AVEC DES PROFESSIONNELS</h2>
+        <p class="text-gray-300 text-sm sm:text-base">
+            Partage de parcours et d’expériences - Conseils pratiques pour trouver une alternance - 3 rencontres par mois (en ligne + présentiel).
+        </p>
+    </div>
+
+    <div class="bg-gray-800 p-4 sm:p-6 rounded-lg shadow hover:shadow-xl transition">
+        <h2 class="text-lg sm:text-xl font-semibold text-white mb-2 sm:mb-3">L'INNOVATION</h2>
+        <p class="text-gray-300 text-sm sm:text-base">
+            Susciter des vocations et engendrer de futurs innovateurs, créateurs et entrepreneurs pour Dieu afin d’impacter leur génération.
+        </p>
+    </div>
+
+    <div class="bg-gray-800 p-4 sm:p-6 rounded-lg shadow hover:shadow-xl transition">
+        <h2 class="text-lg sm:text-xl font-semibold text-white mb-2 sm:mb-3">CRÉATION DE CELLULES “JEUNES PRODIGES TECH</h2>
+        <p class="text-gray-300 text-sm sm:text-base">
+            Implantation sur les campus (1 cellule tous les 3 mois) - Accompagnement des nouveaux arrivants
+        </p>
+    </div>
+
+    <div class="bg-gray-800 p-4 sm:p-6 rounded-lg shadow hover:shadow-xl transition">
+        <h2 class="text-lg sm:text-xl font-semibold text-white mb-2 sm:mb-3">RENCONTRE EN PRÉSENTIEL ÉTUDIANTS–PROFESSIONNELS</h2>
+        <p class="text-gray-300 text-sm sm:text-base">
+            Networking 3 x dans le mois - Découverte d’entreprises partenaires.
+        </p>
+    </div>
+
+    <div class="bg-gray-800 p-4 sm:p-6 rounded-lg shadow hover:shadow-xl transition">
+        <h2 class="text-lg sm:text-xl font-semibold text-white mb-2 sm:mb-3">VISITES D'ENTREPRISE TECH</h2>
+        <p class="text-gray-300 text-sm sm:text-base">
+            Mise en avant des CV étudiants (1 fois dans la semaine) - Promotion des talents auprès des recruteurs (1 fois dans la semaine)
+        </p>
+    </div>
+
+    <div class="bg-gray-800 p-4 sm:p-6 rounded-lg shadow hover:shadow-xl transition">
+        <h2 class="text-lg sm:text-xl font-semibold text-white mb-2 sm:mb-3">INTÉGRATION AU RÉSEAU</h2>
+        <p class="text-gray-300 text-sm sm:text-base">
+            Pour rejoindre le groupe WhatsApp Jeunes Prodiges Tech et bénéficier de l’accompagnement, des échanges et des opportunités : Montant d’adhésion : 100€
+        </p>
+    </div>
+
+    <div class="bg-gray-800 p-4 sm:p-6 rounded-lg shadow hover:shadow-xl transition">
+        <h2 class="text-lg sm:text-xl font-semibold text-white mb-2 sm:mb-3">VISIBILITÉ ET RAYONNEMENT</h2>
+        <p class="text-gray-300 text-sm sm:text-base">
+            Objectif : 1 000 interactions sur LinkedIn - Mise en ligne d’un site internet
+        </p>
+    </div>
+    ```
+
+</div>
+
 
 <!-- Footer / Contact -->
     <footer class="py-12 text-center text-sm text-gray-600">
