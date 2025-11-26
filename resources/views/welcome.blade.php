@@ -126,8 +126,7 @@
 
             <h3 class="text-2xl sm:text-4xl md:text-5xl font-extrabold text-amber-800 leading-tight">
                 <a href="https://donorbox.org/jeunes-prodiges-tech" class="text-3xl sm:text-4xl md:text-5xl font-extrabold text-amber-800 leading-tight">ADHESION </a>
-                <button  class="px-4 py-2 bg-amber-700 text-white rounded-md shadow">>
-
+                <button  class="px-4 py-2 bg-amber-700 text-white rounded-md shadow">
                     <a href="https://donorbox.org/jeunes-prodiges-tech" class="text-3xl sm:text-4xl md:text-5xl font-extrabold text-black-800 leading-tight">CLIQUEZ ICI </a>
                 </button>
 
