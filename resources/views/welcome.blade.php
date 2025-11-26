@@ -148,9 +148,9 @@
         <div class="w-full mx-auto p-4 sm:p-6 bg-white rounded-2xl shadow-lg">
 
             <h3 class="text-xl sm:text-2xl font-semibold mb-4 text-center text-amber-800">
-                ADHEREER OU SOUTENIR
+                <a href="https://donorbox.org/jeunes-prodiges-tech" class="text-sm hover:underline">ADHEREER OU SOUTENIR</a>
+                 <h5>Pour rejoindre le groupe WhatsApp Jeunes Prodiges Tech et bénéficier de l’accompagnement, des échanges et des opportunités : - Montant d’adhésion : 100€ .</h5>
 
-                <a href="https://donorbox.org/jeunes-prodiges-tech" class="text-sm hover:underline"></a>
             </h3>
 
             <!-- WRAPPER FIXE SUR MOBILE, NORMAL SUR DESKTOP -->
