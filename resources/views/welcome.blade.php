@@ -149,20 +149,12 @@
 
             <h3 class="text-xl sm:text-2xl font-semibold mb-4 text-center text-amber-800">
                 ADHEREER OU SOUTENIR
+
+                <a href="https://donorbox.org/jeunes-prodiges-tech" class="text-sm hover:underline"></a>
             </h3>
 
             <!-- WRAPPER FIXE SUR MOBILE, NORMAL SUR DESKTOP -->
-            <div class="w-full md:w-auto max-w-full md:max-w-xl mx-auto overflow-hidden md:overflow-visible">
-                <script type="module" src="https://donorbox.org/widgets.js" async></script>
 
-                <dbox-widget
-                    campaign="jeunes-prodiges-tech"
-                    type="donation_form"
-                    embed-style="responsive"
-                    enable-auto-scroll="true"
-                    class="w-full h-[800px] sm:h-[700px] md:h-auto">
-                </dbox-widget>
-            </div>
 
             <p class="mt-4 text-xs sm:text-sm text-gray-600 text-center">
                 Merci de soutenir cette vision afin d’impacter davantage de jeunes dans la tech.
