@@ -244,7 +244,7 @@ NOS MISSIONS
 
 
 </div>
-<section class="flex flex-col gap-6 p-4 sm:grid sm:grid-cols-2 lg:grid-cols-3">
+<section class="flex flex-col gap-6 p-4">
 
     ```
     <div class="bg-white rounded-lg shadow p-6 flex flex-col w-full">
