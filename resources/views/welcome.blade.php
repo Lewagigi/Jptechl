@@ -28,7 +28,7 @@
         <!-- VERSION DESKTOP -->
         <div class="hidden md:flex gap-4 items-center">
             <a href="#features" class="text-sm hover:underline">A propos</a>
-            <a href="#prayer" class="text-sm hover:underline">Sujets</a>
+            <a href="https://donorbox.org/jeunes-prodiges-tech" class="text-sm hover:underline">Sujets</a>
 
             <button id="btn-login"
                     class="px-4 py-2 bg-amber-700 text-white rounded-md shadow">
