@@ -13,16 +13,16 @@
 </head>
 <body class="min-h-screen bg-gradient-to-b from-amber-50 via-white to-amber-100 text-gray-800">
 <header class="relative">
-    <div class="flex items-center gap-4">
+    
+    <div class="flex items-center">
+        <img src="/img/Design sans titre.png" alt="Logo" class="h-12 w-12" />
 
-        <img src="/img/Design sans titre.png" alt="" class="size-16" />
-
-        <div>
+        <div class="ml-4"> <!-- Espace entre le logo et le titre -->
             <h1 class="text-lg font-semibold">JEUNES PRODIGES TECH</h1>
-            <p class="text-sm text-gray-600">
-               </p>
+            <p class="text-sm text-gray-600">Plateforme Tech pour les jeunes</p>
         </div>
     </div>
+
 
     <!-- NAVBAR RESPONSIVE -->
     <nav class="flex items-center justify-between w-full">
