@@ -18,9 +18,7 @@
         <div>
             <h1 class="text-lg font-semibold">JEUNES PRODIGES TECH</h1>
             <p class="text-sm text-gray-600">
-                Susciter des leaders dans les nouvelles technologies parmi les jeunes,
-                en leur ouvrant des opportunités dans l’entrepreneuriat,
-                l’alternance, les stages et l’emploi. </p>
+               </p>
         </div>
     </div>
 
