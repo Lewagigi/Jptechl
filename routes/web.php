@@ -8,5 +8,5 @@ Route::get('/', function () {
 });
 
 
-//Route::get('/listprofessionnels', [\App\Http\Controllers\ListProfessionnels::class, 'index']);
+Route::get('/listprofessionnels', [\App\Http\Controllers\ListProfessionnels::class, 'index']);
 //Route::get('/listprofessionnels', [\App\Http\Controllers\ListProfessionnels::class, 'index']);

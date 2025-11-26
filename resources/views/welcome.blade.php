@@ -68,6 +68,12 @@
         <button class="px-4 py-2 border border-amber-700 text-amber-700 rounded-md w-full">
             Créer un compte
         </button>
+
+
+        <button class="px-4 py-2 border border-amber-700 text-amber-700 rounded-md w-full">
+            <a href="https://donorbox.org/faire-un-don-71"></a>
+            adherer
+        </button>
     </div>
 
     <script>
