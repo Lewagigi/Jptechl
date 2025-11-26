@@ -138,31 +138,34 @@
 
                         <!-- SCRIPT DONORBOX -->
                         <!-- CONTENEUR DONORBOX RESPONSIVE + FIXE MOBILE -->
-                        <div class="w-full mx-auto p-4 sm:p-6 bg-white rounded-2xl shadow-lg">
+        <!-- CONTENEUR DONORBOX FIXE ET RESPONSIVE -->
+        <div class="w-full mx-auto p-4 sm:p-6 bg-white rounded-2xl shadow-lg">
 
-                            <h3 class="text-xl sm:text-2xl font-semibold mb-4 text-center text-amber-800">
-                                SOUTENIR
-                            </h3>
+            <h3 class="text-xl sm:text-2xl font-semibold mb-4 text-center text-amber-800">
+                SOUTENIR
+            </h3>
 
-                            <!-- WRAPPER MOBILE FIXE -->
-                            <div class="w-full overflow-hidden md:overflow-visible">
-                                <script type="module" src="https://donorbox.org/widgets.js" async></script>
+            <!-- WRAPPER FIXE SUR MOBILE, NORMAL SUR DESKTOP -->
+            <div class="w-full md:w-auto max-w-full md:max-w-xl mx-auto overflow-hidden md:overflow-visible">
+                <script type="module" src="https://donorbox.org/widgets.js" async></script>
 
-                                <dbox-widget
-                                    campaign="jeunes-prodiges-tech"
-                                    type="donation_form"
-                                    embed-style="responsive"
-                                    enable-auto-scroll="true">
-                                </dbox-widget>
-                            </div>
+                <dbox-widget
+                    campaign="jeunes-prodiges-tech"
+                    type="donation_form"
+                    embed-style="responsive"
+                    enable-auto-scroll="true"
+                    class="w-full h-[800px] sm:h-[700px] md:h-auto">
+                </dbox-widget>
+            </div>
 
-                            <p class="mt-4 text-xs sm:text-sm text-gray-600 text-center">
-                                Merci de soutenir cette vision afin d’impacter davantage de jeunes dans la tech.
-                            </p>
-                        </div>
+            <p class="mt-4 text-xs sm:text-sm text-gray-600 text-center">
+                Merci de soutenir cette vision afin d’impacter davantage de jeunes dans la tech.
+            </p>
+        </div>
 
 
-                        <p class="mt-4 text-xs sm:text-sm text-gray-600 text-center">
+
+        <p class="mt-4 text-xs sm:text-sm text-gray-600 text-center">
                             Merci de soutenir cette vision afin d’impacter davantage de jeunes dans la tech.
                         </p>
 
