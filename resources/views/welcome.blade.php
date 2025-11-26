@@ -148,9 +148,7 @@
                         enable-auto-scroll="true">
                     </dbox-widget>
 
-                    <p class="mt-4 text-xs sm:text-sm text-gray-600 text-center">
-                        Utilisez ce plan comme support pour 6 minutes de prières par sujet.
-                    </p>
+                 
 
                 </div>
 
