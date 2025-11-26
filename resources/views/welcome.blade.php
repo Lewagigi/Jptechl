@@ -58,9 +58,7 @@
 
     <!-- MENU MOBILE DÉROULANT -->
     <!-- Conteneur du header -->
-    <header class="relative">
-        <!-- TON HEADER NORMAL ICI -->
-    </header>
+    
 
     <!-- MENU MOBILE -->
     <div id="mobile-menu"
