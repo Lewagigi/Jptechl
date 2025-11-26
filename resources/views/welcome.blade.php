@@ -152,10 +152,6 @@
 
 
 
-                <p>Pour rejoindre le groupe WhatsApp Jeunes Prodiges Tech et bénéficier de l’accompagnement, des échanges et des opportunités : - Montant d’adhésion : 100€ .</p>
-
-
-
             </h3>
 
             <p>Jeunes Prodiges Tech est une plate-forme d'accompagnent et de conseils des jeunes qui sont dans la Tech dans leur recherche d’alternances,
@@ -166,6 +162,7 @@
                 Permettre aussi de soutenir la plateforme .</p>
 
 
+            <p>Pour rejoindre le groupe WhatsApp Jeunes Prodiges Tech et bénéficier de l’accompagnement, des échanges et des opportunités : - Montant d’adhésion : 100€ .</p>
 
             <!-- WRAPPER FIXE SUR MOBILE, NORMAL SUR DESKTOP -->
 
