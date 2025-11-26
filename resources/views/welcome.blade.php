@@ -85,7 +85,7 @@
 
     <!-- Prayer topics -->
     <section id="prayer" class="py-12">
-        <h3 class="text-2xl font-bold text-amber-800">Sujets de prière</h3>
+        <h3 class="text-2xl font-bold text-amber-800">NOS ACTIONS</h3>
         <div class="mt-6 grid md:grid-cols-3 gap-4">
             <article class="bg-white p-6 rounded-lg shadow">
                 <h4 class="font-semibold">Échanges avec des professionnels </h4>
