@@ -96,7 +96,6 @@
             </div>
 
 
-
                     <span class="text-amber-700 font-bold"></span>
                     <h3  class="mt-4 text-gray-700"> Le financement permettra les rencontres entre les étudiants et les professionnels
                         en louant des salles pour organiser des moments d’échanges autour d’un café.
@@ -104,7 +103,6 @@
 
 
                     </h3>
-
 
 
                         <p>
