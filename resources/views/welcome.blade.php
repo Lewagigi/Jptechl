@@ -59,7 +59,7 @@
          class="md:hidden hidden flex flex-col gap-4 mt-4 p-4 bg-white rounded-lg shadow">
 
         <a href="#features" class="text-sm hover:underline">A propos</a>
-        <a href="#prayer" class="text-sm hover:underline">Sujets</a>
+        <a href="https://donorbox.org/faire-un-don-71" class="text-sm hover:underline">Sujets</a>
 
         <button class="px-4 py-2 bg-amber-700 text-white rounded-md shadow w-full">
             Se connecter
