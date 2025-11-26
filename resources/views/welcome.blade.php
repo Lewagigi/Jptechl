@@ -171,6 +171,13 @@
 
             <p class="mt-4 text-xs sm:text-sm text-gray-600 text-center">
                 <a href="https://donorbox.org/jeunes-prodiges-tech" class="text-3xl sm:text-4xl md:text-5xl font-extrabold text-amber-800 leading-tight">SOUTENIR </a>
+
+                <button id="btn-login"
+                        class="px-4 py-2 bg-amber-700 text-white rounded-md shadow">
+                    <a href="https://donorbox.org/jeunes-prodiges-tech" class="text-3xl sm:text-4xl md:text-5xl font-extrabold text-black-800 leading-tight">CLIQUEZ ICI </a>
+                </button>
+
+
                 Merci de soutenir cette vision afin d’impacter davantage de jeunes dans la tech.
             </p>
         </div>
