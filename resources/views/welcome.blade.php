@@ -249,7 +249,7 @@ NOS MISSIONS
 
 <section class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 p-4">
     <div class="bg-white rounded-lg shadow p-6 flex flex-col">
-        <div class="h-40 bg-gray-200 rounded-md mb-4"> <img src="/img/Design sans titre.png" alt="" class="size-8" />
+        <div class="h-40 bg-gray-200 rounded-md mb-4"> <img src="/img/Design sans titre.png" alt="" class="size-16" />
         </div>
 
         <h3 class="text-lg font-semibold mb-2">Titre de la carte</h3>
