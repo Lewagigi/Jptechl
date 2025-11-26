@@ -47,37 +47,55 @@
 
     </section>
     <!-- Hero -->
-    <section class="grid md:grid-cols-2 gap-8 items-center py-12">
+    <section class="grid grid-cols-1 md:grid-cols-2 gap-8 items-center py-12 px-4 md:px-12">
         <div>
-            <h2 class="text-4xl font-extrabold text-amber-800 leading-tight">VISION JEUNES PRODIGES TECH <br class="hidden sm:inline"> </h2>
-            <p class="mt-4 text-gray-700">
+            <h2 class="text-3xl sm:text-4xl md:text-5xl font-extrabold text-amber-800 leading-tight">
+                VISION JEUNES PRODIGES TECH
+            </h2>
 
+            <p class="mt-4 text-gray-700">
                 Susciter des leaders dans les nouvelles technologies parmi les jeunes,
                 en leur ouvrant des opportunités dans l’entrepreneuriat, l’alternance,
                 les stages et l’emploi.
             </p>
 
-            <div class="mt-6 flex gap-3">
-                <button id="hero-login" class="px-6 py-3 bg-amber-700 text-white rounded-md shadow">Pourquoi Financer Jeunes Prodiges Tech</button>
-
+            <div class="mt-6 flex flex-col sm:flex-row gap-3">
+                <button id="hero-login"
+                        class="px-6 py-3 bg-amber-700 text-white rounded-md shadow w-full sm:w-auto">
+                    Pourquoi Financer Jeunes Prodiges Tech
+                </button>
             </div>
 
-            <ul id="features" class="mt-8 grid grid-cols-1 sm:grid-cols-2 gap-3 text-sm text-gray-700">
-                <li class="flex items-start gap-3"><span class="text-amber-700 font-bold">•</span>Le financement permettra  les rencontres entre les étudiants et les professionnels en louant des salles Organiser des moments d’échanges autour d’un café .
+            <ul id="features" class="mt-8 grid grid-cols-1 sm:grid-cols-2 gap-4 text-sm text-gray-700">
+                <li class="flex items-start gap-3">
+                    <span class="text-amber-700 font-bold">•</span>
+                    Le financement permettra les rencontres entre les étudiants et les professionnels
+                    en louant des salles pour organiser des moments d’échanges autour d’un café.
+                    Permettre aussi de soutenir la plateforme.
+                </li>
 
-                    Permettre aussi de soutenir la plateforme .</li>
-
-                <li class="flex items-start gap-3"><span class="text-amber-700 font-bold">•</span> </li>
-
+                <li class="flex items-start gap-3">
+                    <span class="text-amber-700 font-bold">•</span>
+                    <!-- Ajouter ici le second point si nécessaire -->
+                </li>
             </ul>
         </div>
 
         <div class="bg-white rounded-2xl p-6 shadow-lg glass">
             <h3 class="text-xl font-semibold mb-4">SOUTENIR</h3>
+
             <ol class="list-decimal pl-5 space-y-2 text-gray-700">
-                <script type="module" src="https://donorbox.org/widgets.js" async></script><dbox-widget campaign="jeunes-prodiges-tech" type="donation_form" enable-auto-scroll="true"></dbox-widget>
+                <script type="module" src="https://donorbox.org/widgets.js" async></script>
+                <dbox-widget
+                    campaign="jeunes-prodiges-tech"
+                    type="donation_form"
+                    enable-auto-scroll="true">
+                </dbox-widget>
             </ol>
-            <p class="mt-4 text-sm text-gray-600">Utilisez ce plan comme support pour 6 minutes de prières par sujet.</p>
+
+            <p class="mt-4 text-sm text-gray-600">
+                Utilisez ce plan comme support pour 6 minutes de prières par sujet.
+            </p>
         </div>
     </section>
 
