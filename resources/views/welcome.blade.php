@@ -124,9 +124,9 @@
             <ul id="features" class="mt-8 grid grid-cols-1 sm:grid-cols-2 gap-4 text-sm text-gray-700">
                 <li class="flex items-start gap-3">
                     <span class="text-amber-700 font-bold"></span>
-                    <p  class="mt-4 text-gray-700"> Le financement permettra les rencontres entre les étudiants et les professionnels
+                    <h3  class="mt-4 text-gray-700"> Le financement permettra les rencontres entre les étudiants et les professionnels
                         en louant des salles pour organiser des moments d’échanges autour d’un café.
-                        Permettre aussi de soutenir la plateforme.</p>
+                        Permettre aussi de soutenir la plateforme.</h3>
                 </li>
 
                 <li class="flex items-start gap-3">
