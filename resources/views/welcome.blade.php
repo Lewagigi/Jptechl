@@ -200,6 +200,39 @@
         </div>
 
 
+        <div class="p-6 bg-gray-100 min-h-screen">
+            <div class="flex justify-between items-center mb-4">
+                <h2 class="text-xl font-semibold text-gray-700">Users</h2>
+                <button id="openModal" class="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700 transition">
+                    Add User
+                </button>
+            </div>
+
+            <div class="overflow-x-auto bg-white rounded shadow">
+                <table class="min-w-full divide-y divide-gray-200">
+                    <thead class="bg-gray-50">
+                    <tr>
+                        <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Name</th>
+                        <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Email</th>
+                        <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Role</th>
+                        <th class="px-6 py-3 text-right text-xs font-medium text-gray-500 uppercase tracking-wider">Actions</th>
+                    </tr>
+                    </thead>
+                    <tbody class="bg-white divide-y divide-gray-200">
+                    <tr>
+                        <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-900">Jane Doe</td>
+                        <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-500">jane@example.com</td>
+                        <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-500">Admin</td>
+                        <td class="px-6 py-4 whitespace-nowrap text-right text-sm font-medium">
+                            <button class="text-blue-600 hover:text-blue-900">Edit</button>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-900">John Smith</td>
+                        <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-500">john@example.com</td>
+                        <td class="px-6 py-4 whitespace-nowrap text
+
+
 
 
 
