@@ -12,7 +12,7 @@
     </style>
 </head>
 <body class="min-h-screen bg-gradient-to-b from-amber-50 via-white to-amber-100 text-gray-800">
-<header class="max-w-6xl mx-auto p-6 flex items-center justify-between">
+<header class="relative">
     <div class="flex items-center gap-4">
 
         <img src="/img/Design sans titre.png" alt="" class="size-16" />
@@ -57,8 +57,14 @@
     </nav>
 
     <!-- MENU MOBILE DÉROULANT -->
+    <!-- Conteneur du header -->
+    <header class="relative">
+        <!-- TON HEADER NORMAL ICI -->
+    </header>
+
+    <!-- MENU MOBILE -->
     <div id="mobile-menu"
-         class="md:hidden hidden flex flex-col items-center text-center gap-4 mt-6 p-4 bg-white rounded-lg shadow relative z-50">
+         class="md:hidden hidden flex flex-col items-center text-center gap-4 p-4 bg-white rounded-lg shadow w-full absolute top-full mt-4 z-50">
 
         <a href="#features" class="text-sm hover:underline w-full">A propos</a>
 
@@ -80,8 +86,6 @@
             Adhérer
         </a>
     </div>
-
-
 
 
     <script>
