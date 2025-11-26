@@ -89,8 +89,7 @@
             </p>
 
             <div class="mt-6 flex flex-col sm:flex-row gap-3">
-                <button id="hero-login"
-                        class="text-3xl sm:text-2xl md:text-2xl font-extrabold text-amber-800 leading-tight">
+                <button>
                     Pourquoi Financer Jeunes Prodiges Tech
                 </button>
             </div>
@@ -148,8 +147,7 @@
             <p class="mt-4 text-xs sm:text-sm text-gray-600 text-center">
                 <a href="https://donorbox.org/jeunes-prodiges-tech" class="text-3xl sm:text-4xl md:text-5xl font-extrabold text-amber-800 leading-tight">SOUTENIR </a>
 
-                <button id="btn-login"
-                        class="px-4 py-2 bg-amber-700 text-white rounded-md shadow">
+                <button>
                     <a href="https://donorbox.org/jeunes-prodiges-tech" class="text-3xl sm:text-4xl md:text-5xl font-extrabold text-black-800 leading-tight">CLIQUEZ ICI </a>
                 </button>
 
