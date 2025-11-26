@@ -131,13 +131,16 @@
                         Permettre aussi de soutenir la plateforme.
 
 
+                    </h3>
+
+
+
                         <p>
                             Merci de soutenir cette vision afin d’impacter davantage de jeunes dans la tech.
-                            
+
                         </p>
 
 
-                    </h3>
 
         </div>
 
