@@ -122,7 +122,7 @@
             </div>
 
 
-          
+
                     <span class="text-amber-700 font-bold"></span>
                     <h3  class="mt-4 text-gray-700"> Le financement permettra les rencontres entre les étudiants et les professionnels
                         en louant des salles pour organiser des moments d’échanges autour d’un café.
@@ -178,7 +178,7 @@
 
 
 
-        <p class="mt-4 text-xs sm:text-sm text-gray-600 text-center">
+        <p class="mt-6 text-xs sm:text-sm text-gray-600 text-center">
 
                             Merci de soutenir cette vision afin d’impacter davantage de jeunes dans la tech.
                         </p>
