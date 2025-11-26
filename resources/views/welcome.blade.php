@@ -32,15 +32,8 @@
             <a href="#features" class="text-sm hover:underline">A propos</a>
             <a href="https://donorbox.org/jeunes-prodiges-tech" class="text-sm hover:underline">Sujets</a>
 
-            <button id="btn-login"
-                    class="px-4 py-2 bg-amber-700 text-white rounded-md shadow">
-                Se connecter
-            </button>
 
-            <button id="btn-signup"
-                    class="px-4 py-2 border border-amber-700 text-amber-700 rounded-md">
-                Créer un compte
-            </button>
+
         </div>
 
         <!-- VERSION MOBILE -->
