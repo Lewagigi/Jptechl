@@ -58,25 +58,26 @@
 
     <!-- MENU MOBILE DÉROULANT -->
     <div id="mobile-menu"
-         class="md:hidden hidden flex flex-col gap-4 mt-4 p-4 bg-white rounded-lg shadow">
+         class="md:hidden hidden flex flex-col items-center text-center gap-4 mt-4 p-4 bg-white rounded-lg shadow">
 
-        <a href="#features" class="text-sm hover:underline">A propos</a>
-        <a href="https://donorbox.org/faire-un-don-71" class="text-sm hover:underline">Sujets</a>
+        <a href="#features" class="text-sm hover:underline w-full">A propos</a>
+        <a href="https://donorbox.org/faire-un-don-71" class="text-sm hover:underline w-full">Sujets</a>
 
-        <button class="px-4 py-2 bg-amber-700 text-white rounded-md shadow w-full">
+        <button class="px-4 py-2 bg-amber-700 text-white rounded-md shadow w-3/4 mx-auto">
             Se connecter
         </button>
 
-        <button class="px-4 py-2 border border-amber-700 text-amber-700 rounded-md w-full">
+        <button class="px-4 py-2 border border-amber-700 text-amber-700 rounded-md w-3/4 mx-auto">
             Créer un compte
         </button>
 
-
-        <button class="px-4 py-2 border border-amber-700 text-amber-700 rounded-md w-full">
-            <a href="https://donorbox.org/faire-un-don-71"></a>
-            adherer
-        </button>
+        <a href="https://donorbox.org/faire-un-don-71"
+           class="px-4 py-2 border border-amber-700 text-amber-700 rounded-md w-3/4 mx-auto block">
+            Adhérer
+        </a>
     </div>
+
+
 
     <script>
         // Affiche / Masque le menu mobile
