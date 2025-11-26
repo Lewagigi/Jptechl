@@ -149,7 +149,17 @@
 
             <h3 class="text-xl sm:text-2xl font-semibold mb-4 text-center text-amber-800">
                 <a href="https://donorbox.org/jeunes-prodiges-tech" class="text-sm hover:underline">ADHEREER OU SOUTENIR</a>
-                 <h5>Pour rejoindre le groupe WhatsApp Jeunes Prodiges Tech et bénéficier de l’accompagnement, des échanges et des opportunités : - Montant d’adhésion : 100€ .</h5>
+
+                <p>Jeunes Prodiges Tech est un start up accompagnent des jeunes qui sont dans la Tech dans leur recherche d’alternances,
+                    stage, emploi en encourageant les jeunes à continuer à persévérer dans leur recherche par des paroles de motivation quotidienne,
+                    permet aussi l’entraide étudiant. Les étudiants s’encouragent entre eux par des témoignages de leur parcours de recherche.
+                    Les professionnels aident les étudiants à visualiser aux étudiants le métier qu’ils feront plus tard. les raisons pour collecter des fonds pour le projet:
+                    Permettre les rencontres entre les étudiants et les professionnels en louant des salles . Organiser des moments d’échanges autour d’un café .
+                    Permettre aussi de soutenir la plateforme .</p>
+
+                <h5>Pour rejoindre le groupe WhatsApp Jeunes Prodiges Tech et bénéficier de l’accompagnement, des échanges et des opportunités : - Montant d’adhésion : 100€ .</h5>
+
+                 
 
             </h3>
 
