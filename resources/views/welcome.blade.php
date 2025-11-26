@@ -16,7 +16,7 @@
     <div class="flex items-center gap-4">
         <div class="w-12 h-12 rounded-full bg-amber-700 flex items-center justify-center text-white font-bold">PA</div>
         <div>
-            <h1 class="text-lg font-semibold">Prodiges d'Afrique</h1>
+            <h1 class="text-lg font-semibold">JEUNES PRODIGES TECH</h1>
             <p class="text-sm text-gray-600">Renforcer la foi, transformer des vies</p>
         </div>
     </div>
