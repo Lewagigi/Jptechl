@@ -184,66 +184,64 @@
 
     <!-- Prayer topics -->
 
-
 <h1 class="text-3xl font-bold text-center text-gray-900 mt-16 mb-10">
-NOS MISSIONS
+    NOS MISSIONS
 </h1>
 
-<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 bg-gray-900 p-10 rounded-xl shadow-xl">
+<div class="flex flex-col gap-8 p-10 bg-gray-900 rounded-xl shadow-xl sm:grid sm:grid-cols-2 lg:grid-cols-3 sm:gap-8">
 
     <div class="bg-gray-800 p-6 rounded-lg shadow hover:shadow-xl transition">
         <h2 class="text-xl font-semibold text-white mb-3">ÉCHANGES AVEC DES PROFESSIONNELS</h2>
         <p class="text-gray-300">
-            Partage de parcours et d’expériences - Conseils pratiques pour trouver une alternance - 3 rencontres par mois (en ligne + présentiel) .
+            Partage de parcours et d’expériences - Conseils pratiques pour trouver une alternance - 3 rencontres par mois (en ligne + présentiel).
         </p>
     </div>
 
     <div class="bg-gray-800 p-6 rounded-lg shadow hover:shadow-xl transition">
         <h2 class="text-xl font-semibold text-white mb-3">L'INNOVATION</h2>
         <p class="text-gray-300">
-            Susciter des vocations et engendrer de futurs innovateurs, créateurs et entrepreneurs
-            pour Dieu afin d’impacter leur génération.
+            Susciter des vocations et engendrer de futurs innovateurs, créateurs et entrepreneurs pour Dieu afin d’impacter leur génération.
         </p>
     </div>
 
     <div class="bg-gray-800 p-6 rounded-lg shadow hover:shadow-xl transition">
-        <h2 class="text-xl font-semibold text-white mb-3">CRÉATION DE CELLULES “JEUNES PRODIGES TECH</h2>
+        <h2 class="text-xl font-semibold text-white mb-3">CRÉATION DE CELLULES “JEUNES PRODIGES TECH”</h2>
         <p class="text-gray-300">
-            Implantation sur les campus(1 cellules tous les 3 mois) - Accompagnement des nouveaux arrivants
+            Implantation sur les campus (1 cellule tous les 3 mois) - Accompagnement des nouveaux arrivants.
         </p>
     </div>
 
     <div class="bg-gray-800 p-6 rounded-lg shadow hover:shadow-xl transition">
         <h2 class="text-xl font-semibold text-white mb-3">RENCONTRE EN PRÉSENTIEL ÉTUDIANTS–PROFESSIONNELS</h2>
         <p class="text-gray-300">
-            Networking 3 x dans le mois - Découverte d’entreprises partenaires .
+            Networking 3 x dans le mois - Découverte d’entreprises partenaires.
         </p>
     </div>
 
     <div class="bg-gray-800 p-6 rounded-lg shadow hover:shadow-xl transition">
         <h2 class="text-xl font-semibold text-white mb-3">VISITES D'ENTREPRISE TECH</h2>
         <p class="text-gray-300">
-            Mise en avant des CV étudiants(1 fois dans la semaines) - Promotion des talents auprès des recruteurs (1 fois dans la semaine)
+            Mise en avant des CV étudiants (1 fois dans la semaine) - Promotion des talents auprès des recruteurs (1 fois dans la semaine).
         </p>
     </div>
 
     <div class="bg-gray-800 p-6 rounded-lg shadow hover:shadow-xl transition">
         <h2 class="text-xl font-semibold text-white mb-3">INTÉGRATION AU RÉSEAU</h2>
         <p class="text-gray-300">
-            Pour rejoindre le groupe WhatsApp Jeunes Prodiges Tech et bénéficier de l’accompagnement, des échanges et des opportunités : - Montant d’adhésion : 100€
+            Pour rejoindre le groupe WhatsApp Jeunes Prodiges Tech et bénéficier de l’accompagnement, des échanges et des opportunités : Montant d’adhésion : 100€.
         </p>
     </div>
-
 
     <div class="bg-gray-800 p-6 rounded-lg shadow hover:shadow-xl transition">
         <h2 class="text-xl font-semibold text-white mb-3">VISIBILITÉ ET RAYONNEMENT</h2>
         <p class="text-gray-300">
-            Objectif : 1 000 interactions sur LinkedIn - Mise en ligne d’un site internet
+            Objectif : 1 000 interactions sur LinkedIn - Mise en ligne d’un site internet.
         </p>
     </div>
 
-
 </div>
+
+<!--
 <section class="flex flex-col gap-6 p-4">
 
     ```
@@ -256,7 +254,7 @@ NOS MISSIONS
         <button class="mt-4 px-4 py-2 bg-amber-700 text-white rounded-md shadow">Action</button>
     </div>
 
-    <div class="bg-white rounded-lg shadow p-6 flex flex-col w-full">
+    <div class="bg-white rounded-lg shadow p-2 flex flex-col w-full">
         <div class="h-60 bg-gray-200 rounded-md mb-4"></div>
         <h3 class="text-lg font-semibold mb-2">Titre de la carte</h3>
         <p class="text-sm text-gray-600 flex-grow">Description ou contenu de la carte. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
@@ -279,7 +277,7 @@ NOS MISSIONS
     ```
 
 </section>
-
+-->
 
 
 
