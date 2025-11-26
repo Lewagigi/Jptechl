@@ -14,8 +14,8 @@
 <body class="min-h-screen bg-gradient-to-b from-amber-50 via-white to-amber-100 text-gray-800">
 <header class="max-w-6xl mx-auto p-6 flex items-center justify-between">
     <div class="flex items-center gap-4">
-        <div class="w-12 h-12 rounded-full bg-amber-700 flex items-center justify-center text-white font-bold">PA</div>
-        <img src="/img/Design sans titre.png" alt="" class="size-12" />
+
+        <img src="/img/Design sans titre.png" alt="" class="size-16" />
 
         <div>
             <h1 class="text-lg font-semibold">JEUNES PRODIGES TECH</h1>
