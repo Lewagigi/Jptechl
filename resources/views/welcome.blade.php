@@ -136,24 +136,35 @@
             <ol class="list-decimal pl-5 space-y-2 text-gray-700">
                 <!-- WIDGET DONORBOX RESPONSIVE -->
                 <div class="w-full max-w-full md:max-w-md mx-auto p-4 bg-white rounded-2xl shadow-lg">
-                    
-                    <!-- CONTENEUR RESPONSIVE POUR DONORBOX -->
-                    <div class="w-full max-w-full sm:max-w-lg md:max-w-xl lg:max-w-2xl mx-auto p-4 sm:p-6 bg-white rounded-2xl shadow-lg">
 
-                        <h3 class="text-xl sm:text-2xl font-semibold mb-4 text-center text-amber-800">
-                            SOUTENIR JEUNES PRODIGES TECH
-                        </h3>
+
+
 
                         <!-- SCRIPT DONORBOX -->
-                        <script type="module" src="https://donorbox.org/widgets.js" async></script>
+                        <!-- CONTENEUR DONORBOX RESPONSIVE + FIXE MOBILE -->
+                        <div class="w-full mx-auto p-4 sm:p-6 bg-white rounded-2xl shadow-lg">
 
-                        <!-- WIDGET RESPONSIVE -->
-                        <dbox-widget
-                            campaign="jeunes-prodiges-tech"
-                            type="donation_form"
-                            embed-style="responsive"
-                            enable-auto-scroll="true">
-                        </dbox-widget>
+                            <h3 class="text-xl sm:text-2xl font-semibold mb-4 text-center text-amber-800">
+                                SOUTENIR
+                            </h3>
+
+                            <!-- WRAPPER MOBILE FIXE -->
+                            <div class="w-full overflow-hidden md:overflow-visible">
+                                <script type="module" src="https://donorbox.org/widgets.js" async></script>
+
+                                <dbox-widget
+                                    campaign="jeunes-prodiges-tech"
+                                    type="donation_form"
+                                    embed-style="responsive"
+                                    enable-auto-scroll="true">
+                                </dbox-widget>
+                            </div>
+
+                            <p class="mt-4 text-xs sm:text-sm text-gray-600 text-center">
+                                Merci de soutenir cette vision afin d’impacter davantage de jeunes dans la tech.
+                            </p>
+                        </div>
+
 
                         <p class="mt-4 text-xs sm:text-sm text-gray-600 text-center">
                             Merci de soutenir cette vision afin d’impacter davantage de jeunes dans la tech.
