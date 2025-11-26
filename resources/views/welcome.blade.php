@@ -110,8 +110,8 @@
             </article>
 
             <article class="bg-white p-6 rounded-lg shadow">
-                <h4 class="font-semibold">Matthieu 6:33</h4>
-                <p class="mt-2 text-sm text-gray-700">Que notre famille cherche d’abord le royaume et la justice de Dieu — réveil attendu avant fin 2025.</p>
+                <h4 class="font-semibold">Intégration au réseau</h4>
+                <p class="mt-2 text-sm text-gray-700">Pour rejoindre le groupe WhatsApp Jeunes Prodiges Tech et bénéficier de l’accompagnement, des échanges et des opportunités : - Montant d’adhésion : 100€ .</p>
             </article>
 
             <article class="bg-white p-6 rounded-lg shadow">
