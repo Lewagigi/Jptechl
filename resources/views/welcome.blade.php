@@ -186,7 +186,7 @@
     <div class="bg-gray-800 p-6 rounded-lg shadow hover:shadow-xl transition">
         <h2 class="text-xl font-semibold text-white mb-3">L'INNOVATION</h2>
         <p class="text-gray-300">
-            Susciter des vocations et engendrer de futurs innovateurs, créateurs et entrepreneurs pour Dieu afin d’impacter leur génération.
+            Susciter des vocations et engendrer de futurs innovateurs, créateurs et entrepreneurs , afin d’impacter leur génération.
         </p>
     </div>
 
