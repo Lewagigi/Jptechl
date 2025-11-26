@@ -15,6 +15,8 @@
 <header class="max-w-6xl mx-auto p-6 flex items-center justify-between">
     <div class="flex items-center gap-4">
         <div class="w-12 h-12 rounded-full bg-amber-700 flex items-center justify-center text-white font-bold">PA</div>
+        <img src="/img/WhatsApp Image 2025-10-12 at 20.24.21.jpeg" alt="" class="size-8" />
+        <img src="/img/WhatsApp Image 2025-10-12 at 20.24.21.jpeg" alt="" class="size-8" />
         <div>
             <h1 class="text-lg font-semibold">JEUNES PRODIGES TECH</h1>
             <p class="text-sm text-gray-600">
