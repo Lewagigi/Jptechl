@@ -30,7 +30,7 @@
 
 
         <!-- VERSION DESKTOP -->
-        <div class="hidden md:flex items-center gap-4 ml-auto mr-14">
+        <div class="hidden md:flex items-center gap-4 ml-auto mr-44">
             <a href="#features" class="text-sm hover:underline"></a>
             <a href="https://donorbox.org/jeunes-prodiges-tech" class="text-sm hover:underline"></a>
 
