@@ -12,8 +12,7 @@
     </style>
 </head>
 <body class="min-h-screen bg-gradient-to-b from-amber-50 via-white to-amber-100 text-gray-800">
-
-<header class="w-full py-4 bg-white shadow-sm">
+<header class="relative">
     <div class="flex items-center gap-4">
 
         <img src="/img/Design sans titre.png" alt="" class="size-16" />
@@ -31,7 +30,7 @@
 
 
         <!-- VERSION DESKTOP -->
-        <div class="hidden md:flex items-center gap-4 ml-auto mr-44">
+        <div class="hidden md:flex items-center gap-4 ml-auto mr-4">
             <a href="#features" class="text-sm hover:underline"></a>
             <a href="https://donorbox.org/jeunes-prodiges-tech" class="text-sm hover:underline"></a>
 
