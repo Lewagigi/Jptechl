@@ -72,6 +72,19 @@
 </nav>
 
 
+
+<section class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 p-4">
+    <div class="bg-white rounded-lg shadow p-6 flex flex-col">
+        <div class="h-40 bg-gray-200 rounded-md mb-4"></div>
+        <h3 class="text-lg font-semibold mb-2">Titre de la carte</h3>
+        <p class="text-sm text-gray-600 flex-grow">Description ou contenu de la carte. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        <button class="mt-4 px-4 py-2 bg-amber-700 text-white rounded-md shadow">Action</button>
+    </div>
+    <!-- Répète ce bloc carte autant de fois que nécessaire -->
+</section>
+
+
+
     </section>
     <!-- Hero -->
     <section class="grid grid-cols-1 md:grid-cols-2 gap-8 items-center py-12 px-4 md:px-12">
