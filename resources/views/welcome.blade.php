@@ -148,10 +148,7 @@
         <div class="w-full mx-auto p-4 sm:p-6 bg-white rounded-2xl shadow-lg">
 
             <h3 class="text-3xl sm:text-4xl md:text-5xl font-extrabold text-amber-800 leading-tight">
-                <a href="https://donorbox.org/jeunes-prodiges-tech" class="text-sm hover:underline">ADHEREER OU SOUTENIR</a>
-
-
-
+                <a href="https://donorbox.org/jeunes-prodiges-tech" class="text-3xl sm:text-4xl md:text-5xl font-extrabold text-amber-800 leading-tight">ADHEREER OU SOUTENIR</a>
             </h3>
 
             <p>Jeunes Prodiges Tech est une plate-forme d'accompagnent et de conseils des jeunes qui sont dans la Tech dans leur recherche d’alternances,
