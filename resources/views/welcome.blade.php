@@ -131,22 +131,35 @@
         </div>
 
         <div class="bg-white rounded-2xl p-6 shadow-lg glass">
-            <h3 class="text-xl font-semibold mb-4">SOUTENIR</h3>
+
 
             <ol class="list-decimal pl-5 space-y-2 text-gray-700">
                 <!-- WIDGET DONORBOX RESPONSIVE -->
                 <div class="w-full max-w-full md:max-w-md mx-auto p-4 bg-white rounded-2xl shadow-lg">
+                    
+                    <!-- CONTENEUR RESPONSIVE POUR DONORBOX -->
+                    <div class="w-full max-w-full sm:max-w-lg md:max-w-xl lg:max-w-2xl mx-auto p-4 sm:p-6 bg-white rounded-2xl shadow-lg">
 
-                    <h3 class="text-lg sm:text-xl font-semibold mb-4 text-center">SOUTENIR</h3>
+                        <h3 class="text-xl sm:text-2xl font-semibold mb-4 text-center text-amber-800">
+                            SOUTENIR JEUNES PRODIGES TECH
+                        </h3>
 
-                    <script type="module" src="https://donorbox.org/widgets.js" async></script>
+                        <!-- SCRIPT DONORBOX -->
+                        <script type="module" src="https://donorbox.org/widgets.js" async></script>
 
-                    <dbox-widget
-                        campaign="jeunes-prodiges-tech"
-                        type="donation_form"
-                        embed-style="responsive"
-                        enable-auto-scroll="true">
-                    </dbox-widget>
+                        <!-- WIDGET RESPONSIVE -->
+                        <dbox-widget
+                            campaign="jeunes-prodiges-tech"
+                            type="donation_form"
+                            embed-style="responsive"
+                            enable-auto-scroll="true">
+                        </dbox-widget>
+
+                        <p class="mt-4 text-xs sm:text-sm text-gray-600 text-center">
+                            Merci de soutenir cette vision afin d’impacter davantage de jeunes dans la tech.
+                        </p>
+
+                    </div>
 
 
 
