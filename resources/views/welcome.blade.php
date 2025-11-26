@@ -12,7 +12,8 @@
     </style>
 </head>
 <body class="min-h-screen bg-gradient-to-b from-amber-50 via-white to-amber-100 text-gray-800">
-<header class="relative">
+
+<header class="w-full py-4 bg-white shadow-sm">
     <div class="flex items-center gap-4">
 
         <img src="/img/Design sans titre.png" alt="" class="size-16" />
