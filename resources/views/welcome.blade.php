@@ -17,7 +17,10 @@
         <div class="w-12 h-12 rounded-full bg-amber-700 flex items-center justify-center text-white font-bold">PA</div>
         <div>
             <h1 class="text-lg font-semibold">JEUNES PRODIGES TECH</h1>
-            <p class="text-sm text-gray-600">Renforcer la foi, transformer des vies</p>
+            <p class="text-sm text-gray-600">
+                Susciter des leaders dans les nouvelles technologies parmi les jeunes,
+                en leur ouvrant des opportunités dans l’entrepreneuriat,
+                l’alternance, les stages et l’emploi. </p>
         </div>
     </div>
 
