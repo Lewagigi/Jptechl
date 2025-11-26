@@ -142,7 +142,7 @@
         <div class="w-full mx-auto p-4 sm:p-6 bg-white rounded-2xl shadow-lg">
 
             <h3 class="text-xl sm:text-2xl font-semibold mb-4 text-center text-amber-800">
-                SOUTENIR
+                ADHEREER OU SOUTENIR
             </h3>
 
             <!-- WRAPPER FIXE SUR MOBILE, NORMAL SUR DESKTOP -->
