@@ -171,6 +171,33 @@
         </div>
 
 
+        <div class="overflow-x-auto">
+            <table class="min-w-full bg-white border border-gray-200 rounded-lg">
+                <thead class="bg-gray-100">
+                <tr>
+                    <th class="px-4 py-2 text-left text-sm font-semibold text-gray-700">Nom</th>
+                    <th class="px-4 py-2 text-left text-sm font-semibold text-gray-700">Email</th>
+                    <th class="px-4 py-2 text-left text-sm font-semibold text-gray-700">Rôle</th>
+                    <th class="px-4 py-2 text-left text-sm font-semibold text-gray-700">Date d’inscription</th>
+                </tr>
+                </thead>
+                <tbody class="divide-y divide-gray-200">
+                <tr class="hover:bg-gray-50">
+                    <td class="px-4 py-2 text-sm text-gray-800">Alice Dupont</td>
+                    <td class="px-4 py-2 text-sm text-gray-800">alice@example.com</td>
+                    <td class="px-4 py-2 text-sm text-gray-800">Admin</td>
+                    <td class="px-4 py-2 text-sm text-gray-800">2025‑11‑01</td>
+                </tr>
+                <tr class="hover:bg-gray-50">
+                    <td class="px-4 py-2 text-sm text-gray-800">Mohamed Diallo</td>
+                    <td class="px-4 py-2 text-sm text-gray-800">mohamed@example.com</td>
+                    <td class="px-4 py-2 text-sm text-gray-800">Membre</td>
+                    <td class="px-4 py-2 text-sm text-gray-800">2025‑10‑21</td>
+                </tr>
+                <!-- Ajoute d'autres lignes ici -->
+                </tbody>
+            </table>
+        </div>
 
 
 
