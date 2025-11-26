@@ -73,7 +73,7 @@
         </div>
 
         <div class="bg-white rounded-2xl p-6 shadow-lg glass">
-            <h3 class="text-xl font-semibold mb-4">Plan de prière rapide</h3>
+            <h3 class="text-xl font-semibold mb-4">SOUTENIR</h3>
             <ol class="list-decimal pl-5 space-y-2 text-gray-700">
                 <script type="module" src="https://donorbox.org/widgets.js" async></script><dbox-widget campaign="jeunes-prodiges-tech" type="donation_form" enable-auto-scroll="true"></dbox-widget>
             </ol>
