@@ -145,7 +145,7 @@
                         <!-- SCRIPT DONORBOX -->
                         <!-- CONTENEUR DONORBOX RESPONSIVE + FIXE MOBILE -->
         <!-- CONTENEUR DONORBOX FIXE ET RESPONSIVE -->
-        <div class="text-3xl sm:text-4xl md:text-5xl font-extrabold text-amber-800 leading-tight>
+        <div class="w-full mx-auto p-4 sm:p-6 bg-white rounded-2xl shadow-lg">
 
             <h3 class="text-xl sm:text-2xl font-semibold mb-4 text-center text-amber-800">
                 <a href="https://donorbox.org/jeunes-prodiges-tech" class="text-sm hover:underline">ADHEREER OU SOUTENIR</a>
