@@ -52,13 +52,27 @@
     <section class="grid md:grid-cols-2 gap-8 items-center py-12">
         <div>
             <h2 class="text-4xl font-extrabold text-amber-800 leading-tight">VISION JEUNES PRODIGES TECH <br class="hidden sm:inline"> </h2>
-            <p class="mt-4 text-gray-700">  Jeunes Prodiges Tech est un start up accompagnent des jeunes qui sont dans la Tech dans leur recherche d’alternances,
-                stage, emploi en encourageant les jeunes à continuer à persévérer dans leur recherche par des paroles de motivation quotidienne,
-                permet aussi l’entraide étudiant. Les étudiants s’encouragent entre eux par des témoignages de leur parcours de recherche.
-                Les professionnels aident les étudiants à visualiser aux étudiants le métier qu’ils feront plus tard. les raisons pour collecter des fonds pour le projet:
-
-                Permettre les rencontres entre les étudiants et les professionnels en louant des salles . Organiser des moments d’échanges autour d’un café .
-                Permettre aussi de soutenir la plateforme</p>
+            <p class="mt-4 text-gray-700">
+                La plateforme Jeunes prodiges Tech a pour mission : - d’accompagner les étudiants dans leur recherche d’alternance, de stage et d’emploi ; - de promouvoir l’esprit entrepreneurial ; - et de faciliter l’intégration des étudiants internationaux, en particulier ceux arrivant d’Afrique.
+                Vision
+                ✨ Vision de Jeunes Prodiges Tech : Susciter des leaders dans les nouvelles technologies parmi les jeunes, en leur ouvrant des opportunités dans l’entrepreneuriat, l’alternance, les stages et l’emploi.
+                Axes d’action
+                1. Échanges avec des professionnels
+                - Partage de parcours et d’expériences - Conseils pratiques pour trouver une alternance - 3 rencontres par mois (en ligne + présentiel)
+                2. Création de cellules “Jeunes Prodiges Tech”
+                - Implantation sur les campus(1 cellules tous les 3 mois) - Accompagnement des nouveaux arrivants
+                3. Rencontres en présentiel étudiants–professionnels
+                - Networking 3 x dans le mois - Découverte d’entreprises partenaires
+                4. Visites d’entreprises tech
+                - Mise en avant des CV étudiants(1 fois dans la semaines) - Promotion des talents auprès des recruteurs (1 fois dans la semaine)
+                5. Visibilité et rayonnement
+                - Objectif : 1 000 interactions sur LinkedIn - Mise en ligne d’un site internet
+                Intégration au réseau
+                👉 Pour rejoindre le groupe WhatsApp Jeunes Prodiges Tech et bénéficier de l’accompagnement, des échanges et des opportunités : - Montant d’adhésion : 100€
+                Finalité
+                🎯 Objectifs du programme : - Renforcer l’employabilité - Développer l’esprit entrepreneurial - Valoriser les compétences des étudiants auprès des entreprises
+                Conclusion
+                “Investir dans les talents d’aujourd’hui, c’est bâtir l’avenir de demain.” Contacts : (email, site web, réseaux sociaux) Logos / partenaires </p>
 
             <div class="mt-6 flex gap-3">
                 <button id="hero-login" class="px-6 py-3 bg-amber-700 text-white rounded-md shadow">Pourquoi Financer Jeunes Prodiges Tech</button>
