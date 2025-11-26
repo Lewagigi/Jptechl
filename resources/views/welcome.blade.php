@@ -116,14 +116,14 @@
 
             <div class="mt-6 flex flex-col sm:flex-row gap-3">
                 <button id="hero-login"
-                        class="text-3xl sm:text-4xl md:text-5xl font-extrabold text-amber-800 leading-tight">
+                        class="text-3xl sm:text-2xl md:text-2xl font-extrabold text-amber-800 leading-tight">
                     Pourquoi Financer Jeunes Prodiges Tech
                 </button>
             </div>
 
             <ul id="features" class="mt-8 grid grid-cols-1 sm:grid-cols-2 gap-4 text-sm text-gray-700">
                 <li class="flex items-start gap-3">
-                    <span class="text-amber-700 font-bold">•</span>
+                    <span class="text-amber-700 font-bold"></span>
                     <p> Le financement permettra les rencontres entre les étudiants et les professionnels
                         en louant des salles pour organiser des moments d’échanges autour d’un café.
                         Permettre aussi de soutenir la plateforme.</p>
