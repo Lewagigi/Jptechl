@@ -126,11 +126,58 @@
 
 
 
+        h1 class="text-3xl font-bold text-center text-gray-900 mt-16 mb-10">
+        NOS MISSIONS
+        </h1>
+
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 bg-gray-900 p-10 rounded-xl shadow-xl">
+
+            <div class="bg-gray-800 p-6 rounded-lg shadow hover:shadow-xl transition">
+                <h2 class="text-xl font-semibold text-white mb-3">ACCESSIBILITÉ</h2>
+                <p class="text-gray-300">
+                    Rendre l'univers de la technologie accessible et compréhensible pour tous.
+                </p>
+            </div>
+
+            <div class="bg-gray-800 p-6 rounded-lg shadow hover:shadow-xl transition">
+                <h2 class="text-xl font-semibold text-white mb-3">L'INNOVATION</h2>
+                <p class="text-gray-300">
+                    Susciter des vocations et engendrer de futurs innovateurs, créateurs et entrepreneurs
+                    pour Dieu afin d’impacter leur génération.
+                </p>
+            </div>
+
+            <div class="bg-gray-800 p-6 rounded-lg shadow hover:shadow-xl transition">
+                <h2 class="text-xl font-semibold text-white mb-3">CONSEILS ET CONNEXIONS</h2>
+                <p class="text-gray-300">
+                    Connecter les personnes selon leurs besoins dans les nouvelles technologies.
+                </p>
+            </div>
+
+            <div class="bg-gray-800 p-6 rounded-lg shadow hover:shadow-xl transition">
+                <h2 class="text-xl font-semibold text-white mb-3">LA FINALITÉ</h2>
+                <p class="text-gray-300">
+                    Faire de l'évangélisation par l'influence et attirer les âmes à CHRIST.
+                </p>
+            </div>
+
+            <div class="bg-gray-800 p-6 rounded-lg shadow hover:shadow-xl transition">
+                <h2 class="text-xl font-semibold text-white mb-3">PRIÈRE</h2>
+                <p class="text-gray-300">
+                    Les membres engagés dans la prière et les temps d'intercession.
+                </p>
+            </div>
+
+        </div>
 
 
 
 
-                        <!-- SCRIPT DONORBOX -->
+
+
+
+
+        <!-- SCRIPT DONORBOX -->
                         <!-- CONTENEUR DONORBOX RESPONSIVE + FIXE MOBILE -->
         <!-- CONTENEUR DONORBOX FIXE ET RESPONSIVE -->
         <div class="w-full mx-auto p-4 sm:p-6 bg-white rounded-2xl shadow-lg">
