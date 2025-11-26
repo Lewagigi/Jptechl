@@ -38,7 +38,7 @@
         <div class="md:hidden">
             <button id="menu-toggle" class="p-2 text-amber-700">
                 <!-- Icône hamburger -->
-            
+
             </button>
         </div>
     </nav>
@@ -219,7 +219,7 @@
     </footer>
 </main>
 
-<!-- Modals: Login / Signup (simple) -->
+
 <div id="modal" class="fixed inset-0 hidden items-center justify-center bg-black/40 p-6">
     <div class="bg-white rounded-xl w-full max-w-md p-6">
         <button id="modal-close" class="ml-auto block mb-4 text-gray-500">✕</button>
