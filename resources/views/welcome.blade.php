@@ -134,12 +134,26 @@
             <h3 class="text-xl font-semibold mb-4">SOUTENIR</h3>
 
             <ol class="list-decimal pl-5 space-y-2 text-gray-700">
-                <script type="module" src="https://donorbox.org/widgets.js" async></script>
-                <dbox-widget
-                    campaign="jeunes-prodiges-tech"
-                    type="donation_form"
-                    enable-auto-scroll="true">
-                </dbox-widget>
+                <!-- WIDGET DONORBOX RESPONSIVE -->
+                <div class="w-full max-w-full md:max-w-md mx-auto p-4 bg-white rounded-2xl shadow-lg">
+
+                    <h3 class="text-lg sm:text-xl font-semibold mb-4 text-center">SOUTENIR</h3>
+
+                    <script type="module" src="https://donorbox.org/widgets.js" async></script>
+
+                    <dbox-widget
+                        campaign="jeunes-prodiges-tech"
+                        type="donation_form"
+                        embed-style="responsive"
+                        enable-auto-scroll="true">
+                    </dbox-widget>
+
+                    <p class="mt-4 text-xs sm:text-sm text-gray-600 text-center">
+                        Utilisez ce plan comme support pour 6 minutes de prières par sujet.
+                    </p>
+
+                </div>
+
             </ol>
 
             <p class="mt-4 text-sm text-gray-600">
