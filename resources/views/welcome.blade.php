@@ -130,7 +130,7 @@
                 </li>
 
                 <li class="flex items-start gap-3">
-                    <span class="text-amber-700 font-bold">•</span>
+                    <span class="text-amber-700 font-bold"></span>
                     <!-- Ajouter ici le second point si nécessaire -->
                 </li>
             </ul>
@@ -178,7 +178,7 @@
                 </button>
 
 
-                Merci de soutenir cette vision afin d’impacter davantage de jeunes dans la tech.
+             
             </p>
         </div>
 
