@@ -21,7 +21,7 @@
             </div>
             <div class="flex flex-1 items-center justify-center sm:items-stretch sm:justify-start">
                 <div class="flex shrink-0 items-center">
-                    <img src="/img/Design sans titre.png" alt="" class="w-full h-full object-cover rounded-md" />
+                    <img src="/img/Design sans titre.png" alt="" class="size-8" />
                 </div>
                 <div class="hidden sm:ml-6 sm:block">
                     <div class="flex space-x-4">
