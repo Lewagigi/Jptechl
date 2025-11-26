@@ -116,7 +116,7 @@
 
             <div class="mt-6 flex flex-col sm:flex-row gap-3">
                 <button id="hero-login"
-                        class="px-6 py-3 bg-amber-700 text-white rounded-md shadow w-full sm:w-auto">
+                        class="text-3xl sm:text-4xl md:text-5xl font-extrabold text-amber-800 leading-tight">
                     Pourquoi Financer Jeunes Prodiges Tech
                 </button>
             </div>
