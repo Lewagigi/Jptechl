@@ -48,7 +48,7 @@
     <!-- Hero -->
     <section class="grid md:grid-cols-2 gap-8 items-center py-12">
         <div>
-            <h2 class="text-4xl font-extrabold text-amber-800 leading-tight">Inviter le règne de Dieu<br class="hidden sm:inline"> dans chaque maison</h2>
+            <h2 class="text-4xl font-extrabold text-amber-800 leading-tight">VISION JEUNES PRODIGES TECH <br class="hidden sm:inline"> dans chaque maison</h2>
             <p class="mt-4 text-gray-700">  Jeunes Prodiges Tech est un start up accompagnent des jeunes qui sont dans la Tech dans leur recherche d’alternances,
                 stage, emploi en encourageant les jeunes à continuer à persévérer dans leur recherche par des paroles de motivation quotidienne,
                 permet aussi l’entraide étudiant. Les étudiants s’encouragent entre eux par des témoignages de leur parcours de recherche.
