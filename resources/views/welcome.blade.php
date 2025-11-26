@@ -130,7 +130,12 @@
                         en louant des salles pour organiser des moments d’échanges autour d’un café.
                         Permettre aussi de soutenir la plateforme.
 
-                        Merci de soutenir cette vision afin d’impacter davantage de jeunes dans la tech.
+
+                        <p>
+                            Merci de soutenir cette vision afin d’impacter davantage de jeunes dans la tech.
+                            
+                        </p>
+
 
                     </h3>
 
@@ -181,9 +186,6 @@
 
             </p>
         </div>
-
-
-
 
                     </div>
 
