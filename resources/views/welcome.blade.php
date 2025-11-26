@@ -104,9 +104,9 @@
     <!-- Hero -->
     <section class="grid grid-cols-1 md:grid-cols-2 gap-8 items-center py-12 px-4 md:px-12">
         <div>
-            <h2 class="text-3xl sm:text-4xl md:text-5xl font-extrabold text-amber-800 leading-tight">
-                VISION JEUNES PRODIGES TECH
-            </h2>
+            <h3 class="text-3xl sm:text-4xl md:text-5xl font-extrabold text-amber-800 leading-tight">
+                 JEUNES PRODIGES TECH
+            </h3>
 
             <p class="mt-4 text-gray-700">
                 Susciter des leaders dans les nouvelles technologies parmi les jeunes,
